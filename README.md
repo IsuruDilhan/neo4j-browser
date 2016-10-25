@@ -10,7 +10,7 @@
 
 * Clone this Github repository
 
-* ```
+ ```
   npm install
   ```
   This installs npm modules needed to build the browser code.
