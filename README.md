@@ -15,7 +15,7 @@
   ```
   This installs npm modules needed to build the browser code.
   
-* ```
+  ```
   node index.js
   ```
   This listens on port 3000, serving up static documents.
